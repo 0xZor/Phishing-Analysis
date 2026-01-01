@@ -26,6 +26,7 @@
 
 - A segunda red flag é a divergência entre o domínio presente no Message-ID (mail.gmail.com) e o host resolvido do endereço IP remetente (inpost.tmes.trendmicro.com). Essa inconsistência indica que o Message-ID não corresponde à infraestrutura real de envio, caracterizando um indício de inconsistência na origem da mensagem.
 
+
 ---
 
 ## Análise do endereço IP do remetente
